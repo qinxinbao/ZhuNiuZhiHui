@@ -1,0 +1,7 @@
+platform:ios,'8.0'
+target 'ZhuNiuZhiHui' do
+pod 'AFNetworking'
+pod 'MBProgressHUD','~>1.0.0'
+pod 'Masonry'
+pod 'MJExtension'
+end
