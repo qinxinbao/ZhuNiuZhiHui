@@ -36,7 +36,10 @@
     
     
     NSLog(@"xiugaile ");
-    
+    NSLog(@"xiugaile ");
+    NSLog(@"xiugaile ");
+    NSLog(@"xiugaile ");
+    NSLog(@"xiugaile ");
     
 }
 - (void)initUI
